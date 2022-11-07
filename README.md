@@ -32,12 +32,12 @@ then proceed with installing the applications in requirements.txt to your virtua
 
 **To clone the repository:**
 
-git clone https://github.com/audreyemeribe/Heart-Attack-Prediction-Deployment.git
+git clone https://github.com/audreyemeribe/DS-Heart-Attack.git
 
 **Run**
 
 To Run the Application
 
 ```bash
-python xgb_app.py
+python app.py
 ```
