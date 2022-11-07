@@ -22,7 +22,7 @@ $ pip install -r requirements.txt
 ```bash
 python -m venv env
 ```
-to create the virtual environment and activate the environment using:
+to create the virtual environment and activate the environment use:
 
 ```bash
 .\env\Scripts\activate
